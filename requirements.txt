@@ -2,3 +2,7 @@ fastapi
 uvicorn
 httpx
 watchfiles
+pytest
+pytest-mock
+pytest-cov
+faker
